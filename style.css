@@ -1,0 +1,29 @@
+@media (min-width: 576px) { ... }
+
+@media (min-width: 768px) { ... }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
+.container-fluid{
+  background-color: #ff8c00;
+  width: 100%;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+}
+navbar{
+  float: left;
+  background-color: #009aff;
+}
+#produtos{
+  background-color:red;
+  width: 93%;
+  float: left;
+  text-decoration-color: white;
+}
+#acessos{
+  float: right;
+background-color:  red;
+}
