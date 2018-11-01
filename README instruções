@@ -1,0 +1,8 @@
+*Quando criarem uma div com o bootstrap criem uma ID e coloquem a função daquela div principal, idem o exemplo
+
+<div id="Exemplo" class="qualquer class do bootstrap"></div>
+
+*Usem o css externo
+
+*Tentem seguir o wireframe de luca, vulgo o wireframa principal
+*As outras paginas com os produtos e promoçoes vão ser feitas e pensadas depois
