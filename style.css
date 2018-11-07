@@ -1,28 +1,28 @@
-@media (min-width: 576px) { ... }
+@media (min-width: 576px) { }
 
-@media (min-width: 768px) { ... }
+@media (min-width: 768px) {  }
 
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) {  }
 
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) { }
 .container-fluid{
   background-color: #F4511E;
   width: 100%;
+  height: 35%;
 }
+
 h1{
     font-style: italic;
     text-align: center;
 }
 navbar{
-  float: left;
-  background-color:#00B0FF;
+  background-color:#00B0FFs;
 }
 #produtos{
   background-color:#00B0FF;
-  width: 93%;
   float: left;
   text-decoration-color: white;
-  margin-left:14.5px;
+  width: 100%;
 }
 #acessos{
   float: right;
