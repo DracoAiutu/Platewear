@@ -1,0 +1,38 @@
+@media (min-width: 576px) { }
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) { }
+.container-fluid{
+  background-color: #000000; /** Preto **/
+  width: 100%;
+  height: 35%;
+}
+li{
+  margin-left: 5px;
+   margin-right:  5px;
+   font-size:20px;
+}
+h1{
+    text-align: center;
+	color:White;
+}
+h2{
+	text-align:center;
+}
+
+.nav{
+  background-color:	#4d0170;/** roxo **/
+}
+.jumbotron{
+  //background-color: #f46a44; /** latanja**/
+}
+body{
+  background-color: #c0c0c0; /** Silver **/
+}
+footer {
+	margin-left:-287px;
+	margin-right:-287px;
+}
